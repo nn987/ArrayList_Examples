@@ -1,8 +1,0 @@
-Hello everyone,
-
-I'm new with prolog and I don't have any clue about it. 
-Does someone know how to write binary permutations with a const number of 1? 
-For example all 9 bit words with 5 ones. I would be thankful for all help. 
-
-===================================================
-
